@@ -7,7 +7,6 @@ int main() {
     while(t--){
         string x,y;
         cin>>x>>y;
-        // your code goes here
         bool flag = false;
         for(int i = 0;i < x.size();i++)
         {
