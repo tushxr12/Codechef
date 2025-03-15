@@ -14,7 +14,6 @@ void solve()
     }
 }
 
-//Main function
 int main() {
     int t;cin>>t;
     while(t--)
