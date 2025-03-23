@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+//Solve function
 void solve()
 {
     int a,b,c;
