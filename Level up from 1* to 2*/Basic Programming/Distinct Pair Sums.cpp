@@ -5,8 +5,6 @@ void solve()
 {
     int l,r;
     cin>>l>>r;
-    
-    //2 5 -> {4,5,6,7,8,9}
     if(l == r)
     {
         cout<<1;
@@ -18,7 +16,6 @@ void solve()
 }
 
 int main() {
-	// your code goes here
     int t;cin>>t;
     while(t--)
     {
