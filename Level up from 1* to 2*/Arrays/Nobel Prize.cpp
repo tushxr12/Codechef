@@ -25,7 +25,6 @@ void solve()
 }
 
 int main() {
-	// your code goes here
     int t;cin>>t;
     while(t--)
     {
