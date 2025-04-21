@@ -1,4 +1,3 @@
--- Fill in the missing command to start the transaction
 BEGIN TRANSACTION;
 
 -- Insert the first booking
