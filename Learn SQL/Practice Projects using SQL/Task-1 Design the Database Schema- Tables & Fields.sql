@@ -4,7 +4,7 @@ CREATE TABLE Products (
     product_id INTEGER PRIMARY KEY,
     name TEXT NOT NULL,
     category TEXT CHECK (category IN ('Electronics', 'Clothing' ,'Grocery', 'Furniture')),
-    price REAL NOT NULL CHECK (0),
+    price REAL NOT NULL CHECK (price > 0),
     stock_quantity INTEGER CHECK (stock_quantity >= 0)
 );
 
