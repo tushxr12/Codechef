@@ -1,4 +1,3 @@
-#CPP Code
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -33,5 +32,3 @@ int main() {
         }
     }
 }
-
-#Python code to be added
