@@ -9,8 +9,7 @@ func main() {
 	if Age < Vage {	
 		fmt.Println("Not old enough to vote.")
 		fmt.Println("Wait for", (Vage - Age), "years")
-	}
-	 else {
+	} else {
 		fmt.Println("Old enough to vote!")
 	 }
 }
