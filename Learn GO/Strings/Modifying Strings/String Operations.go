@@ -1,4 +1,3 @@
-// Update the blanks below to print the first 3 characters of the String
 // There is also a syntax error - try and fix it to debug the code
 
 package main
